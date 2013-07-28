@@ -1,0 +1,4 @@
+
+C:\water>gcc water.c -v -lm -lopengl32 -lglu32 -lglut32 -lglaux water.exe 
+
+C:\water>gcc water.c -v -lm -lopengl32 -lglu32 -lglut32 -lglaux water.exe 

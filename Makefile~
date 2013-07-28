@@ -1,0 +1,6 @@
+CC=gcc
+NAME=water
+BIN=${NAME}.exe
+
+all:
+	${CC} -o ${BIN} -lMATH -lGL -lGLU -lglut ${NAME}.c
